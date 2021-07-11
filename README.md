@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Isfaq-Anam
-- 👀 I’m interested in Web development and Video editing.
-- 🌱 My learning major is in Software engineering.
+-  Hi, I’m @Isfaq-Anam
+-  I’m interested in Web development and Video editing.
+-  I am doing my major in Software engineering at American International University of Bangladesh.
 
 <!---
 Isfaq-Anam/Isfaq-Anam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
